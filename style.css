@@ -21,18 +21,20 @@
 }
 
 .carousel-caption{
-    bottom:50px;
+    bottom:250px;
     padding-left:100px;
     padding-right:100px;
 }
 .carousel-caption h5{
-    font-size:30px;
-    font-weight:400px;
+    font-size:50px;
+    font-weight:500px;
 }
 .carousel-caption p{
     font-size:18px;
     top:2rem;
 }
+
+
 
 .btn-pos{
     bottom: 50px;
